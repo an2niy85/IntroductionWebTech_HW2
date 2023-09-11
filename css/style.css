@@ -1,0 +1,42 @@
+@font-face {
+    font-family: MyFont;
+    src: url("../font/CoopBlack_Cyrillic_0.ttf");
+}
+
+html {
+    background-color: #FFC618;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: coral;
+    font-family: "MyFont", "Arial", sans-serif;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+a {
+    color: blueviolet;
+}
+
+a:hover {
+    color: brown;
+}
+
+.img1 {
+    width: 300px;
+}
+
+.border {
+    border: 5px solid goldenrod;
+}
+
+.img2 {
+    width: 400px;
+}
